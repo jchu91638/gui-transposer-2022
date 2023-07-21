@@ -6,17 +6,17 @@ const Footer = () => {
       <p className="text-center text-white">
         Designed and Built by{" "}
         <a
-          href="https://www.tenyain.com/"
+          href="https://justinchu.vercel.app/"
           target="_blank"
           referrerPolicy="noreferrer"
         >
           <span className="font-secondary font-bold text-light-md">
-            TeNyain
+            Justin Chu
           </span>
         </a>
       </p>
       <p className="text-center text-white font-secondary">
-      © 2022 Gui-Transpo | All rights reserved.
+        © 2022 Gui-Transpo | All rights reserved.
       </p>
     </footer>
   );
